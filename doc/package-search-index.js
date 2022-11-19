@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.springrest.springrest"},{"l":"com.springrest.springrest.controller"},{"l":"com.springrest.springrest.Dao"},{"l":"com.springrest.springrest.entities"},{"l":"com.springrest.springrest.services"}];updateSearchResults();
